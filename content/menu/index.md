@@ -11,6 +11,10 @@ headless: true
     - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
 <br />
 
+- **Snippets**
+- [Stopwatch]({{< relref "/docs/snippets/stopwatch" >}})
+<br />
+
 - **Shortcodes**
 - [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
 - [Columns]({{< relref "/docs/shortcodes/columns" >}})
