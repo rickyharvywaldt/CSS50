@@ -12,3 +12,5 @@ This is **bold** text, and this is **emphasized** text.
 ```javascript
 console.log('Start here');
 ```
+
+New line.
