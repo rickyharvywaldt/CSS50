@@ -5,21 +5,17 @@ type: docs
 
 # Hello, World! 👋
 
-{{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## What is CSS50?
 
-<--->
+Not to confuse with Harvard University's introduction to Computer Science. This is also not a course. This is a growing collection of some useful, some beautiful CSS snippets in less than 50 lines of CSS. 
 
-## Suis quot vota
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+
+## Collaboration
+
+CSS50 is an open source project that I started in 2023. Depending on when you read this, this project may or may not contain lots of CSS snippets. I will keep working on and building this project, but if you like the idea and you want to contribute, then feel free to tweet about this project and do a pull-request from the GitHub repository if you'd like to contribute.
+
 
 
 ## Tempora nisi nunc
