@@ -1,0 +1,4 @@
+baseURL = 'https://css50.dev/'
+languageCode = 'en-us'
+title = 'CSS50'
+theme = 'hugo-book'
