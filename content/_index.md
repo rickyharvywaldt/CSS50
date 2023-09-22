@@ -8,7 +8,7 @@ type: docs
 
 ## What is CSS50?
 
-Not to confuse with Harvard University's introduction to Computer Science. This is also not a course. This is a growing collection of some useful, some beautiful CSS snippets in less than 50 lines of CSS. 
+Not to confuse with Harvard University's introduction to Computer Science. This is also not a course. This is a growing collection of some useful, some beautiful CSS snippets in less than 50 lines of CSS that you can use in your own projects. 
 
 
 
