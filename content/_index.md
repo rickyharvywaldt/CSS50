@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Home
 type: docs
 ---
 
@@ -26,6 +26,6 @@ My name is [Ricky Waldt](https://twitter.com/rickywaldt) and I work as project m
 
 ## Preface
 
-You *can* have HTML without CSS, but you *cannot* have CSS without HTML. That being said, the snippets provided are only for the CSS, and unlike HTML, you may have to adjust the CSS to fit your class names. I do provide a link for every snippet to CodePen where you can view the full code and the result. 
+You *can* have HTML without CSS, but you *cannot* have CSS without HTML. That being said, the snippets provided are only for the CSS, and unlike HTML where you don't decide the element names, you may have to adjust the CSS to fit your class names. I do provide a link for every snippet to CodePen where you can view the full code and the result. 
 
-Finally, I won't explain the CSS line by line, unless I think it's really important to explain a specific line, as this is not a tutorial, but just a rough overview. I do however run a blog on my [other website](https://ninetynine.dev) where I post mostly beginner tutorials.
+Finally, I won't explain the CSS line by line, unless I think it's really important to explain a specific line, as this is not a tutorial, but just a rough overview. I do however run a blog on my [other website](https://ninetynine.dev) where I mostly post beginner tutorials.
