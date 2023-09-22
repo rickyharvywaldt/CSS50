@@ -1,5 +1,5 @@
 ---
-title: "First and perhaps last post"
+title: "#1 - Day one"
 date: 2023-09-22T11:45:51+07:00
 categories: ['general']
 tags: ['thoughts']
