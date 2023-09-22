@@ -8,11 +8,10 @@ The inspiration for this snippet is from the timer animation on Chess.com. It's 
 ## CSS
 ```css
 .clock {
-  width: 20rem;
-  height: 20rem;
+  width: 200px;
+  height: 200px;
   border-radius: 50%; 
-  background-color: transparent;
-  border: 1rem solid var(--clr-main);
+  border: 10px solid #111;
   position: relative;
   transform: rotate(180deg);
 }
@@ -20,11 +19,11 @@ The inspiration for this snippet is from the timer animation on Chess.com. It's 
 .hand {
   position: absolute;
   top: 50%;
-  left: calc(50% - 1rem / 2);
-  width: 1rem;
-  height: 7rem;
-  background-color: var(--clr-main);
-  border-radius: 1rem;
+  left: calc(50% - 10px / 2);
+  width: 10px;
+  height: 70px;
+  background-color: #111;
+  border-radius: 10px;
   animation: rotate steps(4) 4s infinite;
   transform-origin: center 0;
 }
