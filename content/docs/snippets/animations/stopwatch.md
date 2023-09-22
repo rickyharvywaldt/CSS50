@@ -2,6 +2,9 @@
 
 The inspiration for this snippet is from the timer animation on Chess.com. It's basically a circle with a line in it that rotates 360 degrees in 4 steps of 90 degrees clockwise. 
 
+{{< button href="https://codepen.io/rickywaldt/pen/zYyROYO" >}}View in CodePen{{< /button >}}
+{{< button href="https://github.com/rickyharvywaldt/CSS50/blob/main/content/docs/snippets/animations/stopwatch.md" >}}Contribute{{< /button >}}
+
 ## CSS
 ```css
 .clock {
