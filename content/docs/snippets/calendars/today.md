@@ -1,8 +1,8 @@
 # Today
 
-Today is a simple and minimalistic calendar that focuses on a particular (to)day by eliminating all the date numbers except for 1 date. It also has different styles to distinguish weekdays from weekends.
+Today is a simple and minimalistic calendar that focuses on a particular (to)day by eliminating all the date numbers except for 1 date. It also has different styles to distinguish weekdays from weekends. The weekdays also has a pointer cursor indicating that these days can be clicked as opposed to the weekends.
 
-The weekdays also has a pointer cursor indicating that these days can be clicked as opposed to the weekends. A possible use case could be to only highlight special days, for example days with appointments or tasks that can either be clicked or hovered to display more information.
+A possible use case could be to only highlight special days, for example days with appointments or tasks that can either be clicked or hovered to display more information.
 
 Of course, JavaScript is needed to make the calendar dynamic.
 
